@@ -1,4 +1,4 @@
-name: Run rt main.PY every3nutes df 1 5
+name: Run maivn.PY every3nutes dv1
 
 on:
   schedule:
@@ -25,10 +25,16 @@ jobs:
         run: |
           python main.py
   
-      - name: Commit and push changes
+      - name: Check for changes
+        id: check_changes
         run: |
-          git config --local user.email "amirhdevo@gmail.com"
-          git config --local user.name "amirhdevo"
-          git add .
-          git commit -m "Run main.py"
-          git push
+          git diff --exit-code || echo "Changes found"
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.result == 'Changes found'
+        run: |
+            git config --local user.email "amirhdevo@gmail.com"
+            git config --local user.name "amirhdevo"
+            git add .
+            git commit -m "Run main.py"
+            git push
