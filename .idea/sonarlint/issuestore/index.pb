@@ -163,3 +163,9 @@ w
 G.idea/sonarlint/issuestore/9/4/9420c25c9314a37c59b7c4182193f25aa14c1c4e,d\1\d182fcdaff9e2e5a68a11fd1ccbf12a924a2ced1
 w
 G.idea/sonarlint/issuestore/7/1/7121f5102da66a26ea74eb7e9e459c83588933bf,b\1\b158f207247ab2e6b7154256e47b8c8344f3023b
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+Å
+Q.idea/sonarlint/securityhotspotstore/1/9/19359a61ae2446b51b549167b014da2fcf265768,e\2\e2212f35b63a1f1addcdc9ab55a8fc987a93a069
+w
+G.idea/sonarlint/issuestore/1/9/19359a61ae2446b51b549167b014da2fcf265768,b\f\bf26e38c6077dc99b98bdb7696e470de283480be
