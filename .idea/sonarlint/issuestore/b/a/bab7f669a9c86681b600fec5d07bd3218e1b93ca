@@ -1,0 +1,8 @@
+
+npython:S1854)"ORemove this assignment to local variable 'v2ray_list'; the value is never used.(н╬гъ8л©оте1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(р▄П╦ЫЪЪЪЪ8л©оте1
+=python:S125%"Remove this commented out code.(птК┴8л©оте1
+dpython:S48306"@Enable server certificate validation on this SSL/TLS connection.(²╔╝УЩЪЪЪЪ8л©оте1
+dpython:S4830B"@Enable server certificate validation on this SSL/TLS connection.(бщх╒ЬЪЪЪЪ8л©оте1
+cpython:S3457P"EAdd replacement fields or use a normal string instead of an f-string.(╡┌⌠f8л©оте1
+ipython:S3457R"EAdd replacement fields or use a normal string instead of an f-string.(НЦ▌╗ЪЪЪЪЪ8л©оте1
