@@ -1,4 +1,4 @@
-name: Run main.PY every 5 minutes dfx1 1
+name: Run main.PY every 5 minutes df 1
 
 on:
   schedule:
