@@ -10,7 +10,7 @@ on:
         default: "World"
         
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs: 
     run-main:
