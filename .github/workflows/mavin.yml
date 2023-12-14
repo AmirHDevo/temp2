@@ -2,7 +2,7 @@ name: Run maivn.PY every3nutes dv21
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs: 
     run-main:
