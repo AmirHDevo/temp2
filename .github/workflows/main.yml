@@ -1,0 +1,30 @@
+name: Run main.PY every 10 minutes
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  run-main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Run main.PY
+      run: |
+        python main.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Run main.py"
+        git push
