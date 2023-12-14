@@ -1,0 +1,42 @@
+name: 3Run maivn.PY every3nu4
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs: 
+    run-main:
+      runs-on: ubuntu-latest
+  
+      steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+  
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      
+      - name: Install Python Packages Requirements
+        run: |
+            python -m pip install --upgrade pip 
+            pip install -r requirements
+            
+      - name: Run main.py
+        run: |
+          python workRequestsChannel.py
+          
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code || echo "Changes found"
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.result == 'Changes found'
+        run: |
+            git config --local user.email "amirhdevo@gmail.com"
+            git config --local user.name "amirhdevo"
+            git add .
+            git commit -m "Run main.py"
+            git push
