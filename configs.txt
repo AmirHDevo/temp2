@@ -14,25 +14,25 @@ trojan://telegram-id-privatevpns@18.171.82.25:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.11.135.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.33.77.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.194.199.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@levantquran18.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@caliphquran1.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@sunnaquran02.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@hiraquran19.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#Zenlayer+Germany
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@levantquran18.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@sunnaquran02.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@caliphquran1.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@hiraquran19.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?type=ws&security=tls&path=%2Fcurrent_time&encryption=none#t.me/ConfigsHub
-vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@bia-to1.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4.unlimiteddev.shop&path=/#@SHADOWROCKETV2RAY-VIP-1
-vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@bia-to2.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4unlimiteddev.shop&path=/#@SHADOWROCKETV2RAY-VIP-2
-vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@bia-to3.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4.unlimiteddev.shop&path=/#@SHADOWROCKETV2RAY-VIP-3
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@bia-to2.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4unlimiteddev.shop&path=/#t.me/ConfigsHub
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@bia-to3.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4.unlimiteddev.shop&path=/#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@104.20.156.248:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@173.245.59.31:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@190.93.247.155:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@198.41.202.5:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://SvnTeam@mtn.VPNPROSEC.com:2053/?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Fnd.SvnNvs.Online#@imperva_ssh
+vless://SvnTeam@mtn.VPNPROSEC.com:2053/?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Grm.SvnNvs.Online#@imperva_ssh
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@190.93.247.155:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://SvnTeam@mtn.VPNPROSEC.com:2053/?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Grm.SvnNvs.Online#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@173.245.59.31:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@104.20.156.248:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@198.41.202.5:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISFlVdFRqamdWaVpWRUpwZkYwWEZk@la.telegavpn.org:33966#🇺🇸 San Francisco, 2GB, FREE
+vless://SvnTeam@mtn.VPNPROSEC.com:2053/?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Fnd.SvnNvs.Online#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@190.93.247.155:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@104.20.156.248:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@173.245.59.31:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e73@198.41.202.5:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Digiv2ray#t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.119.86:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.219.167:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.229.11:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
