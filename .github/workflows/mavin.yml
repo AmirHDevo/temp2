@@ -45,7 +45,13 @@ jobs:
           git config --local user.name "amirhdevo"
           git add -A 
           git commit -m "Run main.py"
-          git push -f https://${{ env.ACCESS_TOKEN }}@github.com/AmirHDevo/temp2.git main
+          git push  
 
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN_CNFG }}
+          branch: ${{ github.ref }}
  
      
