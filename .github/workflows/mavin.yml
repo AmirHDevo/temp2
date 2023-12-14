@@ -35,20 +35,17 @@ jobs:
         run: |
           python workRequestsChannel.py
           
-      - name: Debug
-        run: echo "GitHub Token:$secrets.GH_TOKEN_CNFG"
-        env:
-          GH_TOKEN_CNFG: ${{ secrets.GH_TOKEN_CNFG }}
-
+       
     
       - name: Commit and push changes 
         env:
-           GH_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
+           ACCESS_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
         run: |
           git config --local user.email "amirhdevo@gmail.com"
           git config --local user.name "amirhdevo"
           git add -A 
           git commit -m "Run main.py"
-          git push  
+          git push -f https://${{ env.ACCESS_TOKEN }}@github.com/AmirHDevo/temp2.git main
+
  
      
