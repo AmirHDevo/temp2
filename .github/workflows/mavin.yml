@@ -37,21 +37,17 @@ jobs:
           
        
     
-      - name: Commit and push changes 
-        env:
-           ACCESS_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
+      - name: Commit and push changes  
         run: |
           git config --local user.email "amirhdevo@gmail.com"
           git config --local user.name "amirhdevo"
           git add -A 
           git commit -m "Run main.py"
-          git push  
-
-          
+      
+       # Push changes
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
+          branch: main
           github_token: ${{ secrets.GH_TOKEN_CNFG }}
-          branch: ${{ github.ref }}
- 
      
