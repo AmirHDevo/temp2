@@ -36,10 +36,10 @@ jobs:
           python workRequestsChannel.py
           
       - name: Debug
-        run: |
-           echo "GitHub Token: $GH_TOKEN_CNFG"
-            echo "GitHub Token: $ secrets.GH_TOKEN_CNFG"
-           git remote -v
+        run: echo "GitHub Token:$secrets.GH_TOKEN_CNFG"
+        env:
+          GH_TOKEN_CNFG: ${{ secrets.GH_TOKEN_CNFG }}
+
     
       - name: Commit and push changes 
         env:
