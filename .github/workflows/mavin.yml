@@ -42,11 +42,11 @@ jobs:
           git config --local user.email "amirhdevo@gmail.com"
           git config --local user.name "amirhdevo"
           git add -A 
-          git commit -m "Run main.py"
+          git commit -m "Run main.py  $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')"
       
        # Push changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@min
         with:
           branch: main
           github_token: ${{ secrets.GH_TOKEN_CNFG }}
