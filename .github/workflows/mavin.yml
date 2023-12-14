@@ -1,6 +1,14 @@
 name: Run maivn.PY every3nutes dv21
 
 on:
+ 
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Who to greet"
+        required: true
+        default: "World"
+        
   schedule:
     - cron: '*/5 * * * *'
 
