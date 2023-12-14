@@ -46,7 +46,7 @@ jobs:
       
        # Push changes
       - name: Push changes
-        uses: ad-m/github-push-action@min
+        uses: ad-m/github-push-action@master
         with:
           branch: main
           github_token: ${{ secrets.GH_TOKEN_CNFG }}
