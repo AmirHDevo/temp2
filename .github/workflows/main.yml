@@ -1,8 +1,8 @@
-name: Run main.PY every 10 minutes
+name: Run main.PY every 5 minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   run-main:
@@ -15,9 +15,9 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8
+        python-version: 3.11
 
-    - name: Run main.PY
+    - name: Run main.pyPY
       run: |
         python main.py
 
