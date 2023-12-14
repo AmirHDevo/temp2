@@ -39,6 +39,7 @@ jobs:
         run: |
             git config --local user.email "amirhdevo@gmail.com"
             git config --local user.name "amirhdevo"
-            git add .
+            git add -A
+            git branch -m main
             git commit -m "Run main.py"
-            git push
+            git push -f origin main
