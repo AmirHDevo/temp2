@@ -24,6 +24,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.11
+
       
       - name: Install Python Packages Requirements
         run: |
@@ -34,7 +35,12 @@ jobs:
         run: |
           python workRequestsChannel.py
           
-       
+      - name: Debug
+        run: |
+           echo "GitHub Token: $GH_TOKEN_CNFG"
+            echo "GitHub Token: $ secrets.GH_TOKEN_CNFG"
+           git remote -v
+    
       - name: Commit and push changes 
         env:
            GH_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
