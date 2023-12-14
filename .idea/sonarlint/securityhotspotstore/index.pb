@@ -185,3 +185,7 @@ Q.idea/sonarlint/securityhotspotstore/e/2/e2212f35b63a1f1addcdc9ab55a8fc987a93a0
 requirements,e\d\ed2eb3742618bb10d3b2ba0231ab69fecc8d716b
 w
 G.idea/sonarlint/issuestore/e/2/e2212f35b63a1f1addcdc9ab55a8fc987a93a069,d\a\dac7bf7a6f98b874c42169d37b2a9f20311b64f7
+K
+.github/workflows/mavin.yml,7\a\7ad890806a375105b79d301c4b4bf1d17bee061c
+K
+.github/workflows/maiwn.yml,7\8\782a821c2c59dddf52fc1c2eaa2c36f7dd5b995f

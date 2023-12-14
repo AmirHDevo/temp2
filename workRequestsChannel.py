@@ -96,7 +96,7 @@ def fetch_last_messages(channel_link) -> list:
 
 def main():
     total_configs = 0
-    for i, ch in enumerate(s):  # load_json(r"ch.json")):
+    for i, ch in enumerate(s[0:1]):  # load_json(r"ch.json")):
         last_messages = fetch_last_messages(f"https://t.me/s/{ch}")
         print("-" * 100)
         print(f"get last messages from: https://t.me/s/{ch}")
