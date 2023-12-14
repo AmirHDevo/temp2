@@ -10,13 +10,18 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: 3.11
-
+    
+    - name: Install Python Packages Requirements
+      run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements
+          
     - name: Run main.pyPY
       run: |
         python main.py
