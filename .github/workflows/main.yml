@@ -1,11 +1,10 @@
-name: Run main.PY every 5 minutes x1
+name: Run main.PY every 5 minutes dfx1
 
 on:
   schedule:
     - cron: '*/5 * * * *'
 
-jobs:
-  build:
+jobs: 
     run-main:
       runs-on: ubuntu-latest
   
@@ -20,8 +19,7 @@ jobs:
       
       - name: Install Python Packages Requirements
         run: |
-            python -m pip install --upgrade pip
-            # pip install -r requirements
+            python -m pip install --upgrade pip 
             
       - name: Run main.pyPY
         run: |
@@ -31,6 +29,6 @@ jobs:
         run: |
           git config --local user.email "amirhdevo@gmail.com"
           git config --local user.name "amirhdevo"
-        git add .
-        git commit -m "Runed main.py"
-        git push
+          git add .
+          git commit -m "Runed main.py"
+          git push
