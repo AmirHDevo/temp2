@@ -36,12 +36,13 @@ jobs:
           
        
       - name: Commit and push changes 
-        run: |
-            git config --local user.email "amirhdevo@gmail.com"
-            git config --local user.name "amirhdevo"
-            git add -A
-            git branch -m main
-            git commit -m "Run main.py"
-            git push -f origin main
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
+           GH_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
+        run: |
+          git config --local user.email "amirhdevo@gmail.com"
+          git config --local user.name "amirhdevo"
+          git add -A 
+          git commit -m "Run main.py"
+          git push  
+ 
+     
