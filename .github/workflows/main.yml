@@ -2,7 +2,7 @@ name: Run main.PY every 5 minutes
 
 on:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   run-main:
@@ -23,8 +23,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "amirhdevo@gmail.com"
+        git config --local user.name "amirhdevo"
         git add .
-        git commit -m "Run main.py"
+        git commit -m "Runed main.py"
         git push
