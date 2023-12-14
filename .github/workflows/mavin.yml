@@ -43,3 +43,5 @@ jobs:
             git branch -m main
             git commit -m "Run main.py"
             git push -f origin main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN_CNFG }}
