@@ -14,7 +14,6 @@ trojan://telegram-id-privatevpns@52.56.255.55:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.11.146.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.170.76.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.49.54.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-vless://716e9106-a7d7-47d4-d4eb-bd380633df10@188.114.97.2:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=random&type=grpc&serviceName=&sni=adolf.globalonlInup.shop#t.me/ConfigsHub
 vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%40m4dvpn%2F%3Fed%3D2048&security=none&encryption=none&host=nl54.vlessx.us&type=ws#t.me/ConfigsHub
 vless://bed75bf5-fec2-4884-acc4-042bf5168aa6@104.21.12.150:2082?path=%2F&security=none&encryption=none&host=nl55.vlessx.us&type=ws#t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMjcuMTk4LjUyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJLYW5zYXMuYm9iYnlrb3RpY2sucmlwIiwiaWQiOiIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+auCBKb2luIFRlbGVncmFtIDog8J+GlCBAZGFlbWkxMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiS2Fuc2FzLmJvYmJ5a290aWNrLnJpcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -33,6 +32,7 @@ vmess://eyJhZGQiOiJnaW5zb24uZWZudGVuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiaDIiLCJmcCI6
 vless://7bae8768-b725-4190-9cd4-2eedd5f63bfa@49.13.53.137:443?mode=gun&security=reality&encryption=none&pbk=X6lo2U0AXKiZ9EAovfGeNnlDpVDxrjBjUuDkcDM4-m0&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=f5361167#t.me/ConfigsHub
 vless://7bae8768-b725-4190-9cd4-2eedd5f63bfa@49.13.53.137:443?mode=gun&security=reality&encryption=none&pbk=X6lo2U0AXKiZ9EAovfGeNnlDpVDxrjBjUuDkcDM4-m0&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=f5361167#t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaHE1N2F3SzFtZW80N016NkNuTFZQ@amsterdam.telegavpn.org:59531#🇳🇱 Amsterdam, 2Gb, FREE
+vless://ef5fe440-9b51-11ee-b702-1239d0255272@vpneror12.arminhadadi.site:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=vpneror12.arminhadadi.site#%F0%9F%9F%A3%40daemi100%F0%9F%9F%A3
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.52.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.33.128:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.15.141:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
