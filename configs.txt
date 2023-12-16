@@ -17,25 +17,25 @@ trojan://telegram-id-privatevpns@18.158.182.146:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@13.36.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.37.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.43.135.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S107)🇬🇧t.me/PrivateVPNs
-https://t.me/proxy?server=mrconnection4github.ddns.net&port=44&secret=7gAAAAAAAAAAAAAAAAAAAAA%3D
-https://t.me/proxy?server=178.63.141.93&port=8&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=162.55.94.26&port=8&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=116.202.171.11&port=17&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.109.99.35&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=149.40.63.83&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=65.109.57.218&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.108.31.98&port=100&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.109.105.94&port=443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.108.225.141&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=49.13.155.233&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D
-https://t.me/proxy?server=65.109.98.224&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.108.0.190&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=95.217.194.210&port=100&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=95.217.192.79&port=8&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=178.162.159.86&port=443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-vless://2f9dadcf-5d86-4cce-9fc8-8947ef7802ef@104.24.185.137:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@TOP_NETI#t.me/ConfigsHub
-https://t.me/proxy?server=95.211.175.247&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=185.222.28.43&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+vless://e801777e-7edc-4cf0-979b-99d275589db1@172.66.44.172:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=proxy1.tradingvip.top#%40v2naptv+%F0%9F%87%B9%F0%9F%87%B7
+vless://e552c2ee-2e36-4010-a0c8-889b2d47576b@discord.gg:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bashe.seyyedmt.shop#%40v2naptv+%F0%9F%87%A7%F0%9F%87%AD
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@ahmedquran3.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@ahmedquran3.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMDQuMTcuMTAwLjEzMSIsImFpZCI6IjAiLCJob3N0IjoiY2YtdXNzcy5kb3VzaGltZW5nLmNvbSIsImlkIjoiOWVjYjEyZmYtZTY3Yy00NGMxLTkwZDItMWNiNjdkN2E3NzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FzZGFzIiwicG9ydCI6IjIwOTUiLCJwcyI6InQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@themequran15.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vmess://eyJhZGQiOiJjcm93bnYyLmRkbnMubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJLYW5zYXMuYm9iYnlrb3RpY2sucmlwIiwiaWQiOiI5NDREQjM1Qy1FNUEyLTQ3RjUtOENGNS0xM0MzQTYzNzFGNEIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IkthbnNhcy5ib2JieWtvdGljay5yaXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://e552c2ee-2e36-4010-a0c8-889b2d47576b@discord.gg:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bashe.seyyedmt.shop#t.me/ConfigsHub
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@wahyquran13.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vmess://eyJhZGQiOiJjcm93bnYyLmRkbnMubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJLYW5zYXMuYm9iYnlrb3RpY2sucmlwIiwiaWQiOiI5NDREQjM1Qy1FNUEyLTQ3RjUtOENGNS0xM0MzQTYzNzFGNEIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IkthbnNhcy5ib2JieWtvdGljay5yaXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@tajwidquran7.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@homsquran1.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@hiraquran17.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@qafquran21.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran05.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vless://3c1395ac-0f01-45ff-b7be-fd3021914577@def.irimcs.org:2087?mode=gun&security=reality&encryption=none&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&fp=firefox&type=grpc&serviceName=@CatVpns&sni=greenpepper.ir&sid=df91#t.me/ConfigsHub
+vless://7ddf1a7b-3d86-4908-bef0-6e2ee635db5b@mci.divar.pro:80?path=%2Fbackup&security=none&encryption=none&host=vi2mTp.kasHTi.WoRLD&type=ws#t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#t.me/ConfigsHub
+vless://VPNCUSTOMIZE@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#ALL
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.100.102:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.66.49:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.110.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
