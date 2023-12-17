@@ -13,10 +13,6 @@ trojan://telegram-id-privatevpns@3.11.231.7:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@3.10.123.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.212.86.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@34.240.196.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-vless://77406211-7346-4c74-be14-1e7cbc9249b4@185.982.151.32:35554?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#t.me/ConfigsHub
-vless://8a91cf17-6f38-489c-b8ff-7bde715335f9@Sourceforge.net:443?path=%2F&security=tls&encryption=none&host=Vip.hsza.site&type=ws&sni=Vip.hsza.site#%40HosseinStore_Za
-vless://a38ff253-ca6e-4b2f-be89-65fdfae1e415@Www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=Vip.hsza.site&type=ws&sni=Vip.hsza.site#%40HosseinStore_Za
-vless://46d74f1a-fb28-49ef-9b35-e82e78ae6180@Sedo.com:2053?path=%2F&security=tls&encryption=none&host=Vip.hsza.site&type=ws&sni=Vip.hsza.site#%40HosseinStore_Za
 vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#t.me/ConfigsHub
 vless://8a91cf17-6f38-489c-b8ff-7bde715335f9@Sourceforge.net:443?path=%2F&security=tls&encryption=none&host=Vip.hsza.site&type=ws&sni=Vip.hsza.site#t.me/ConfigsHub
 vless://a38ff253-ca6e-4b2f-be89-65fdfae1e415@Www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=Vip.hsza.site&type=ws&sni=Vip.hsza.site#t.me/ConfigsHub
@@ -32,6 +28,10 @@ vless://38c1db58-0b97-40fe-a857-2119443872bf@139.162.144.195:2083?security=reali
 vless://3fa6ad85-97c5-4cb3-b758-f49e9f2be872@104.31.16.242:443?type=ws&host=bolbolvpn-join-us-1.rising-from-ashes.sbs&path=/?ed%3D2048&security=tls&fp=chrome&sni=bolbolvpn-join-us-1.rising-from-ashes.sbs#t.me/ConfigsHub
 vless://38c1db58-0b97-40fe-a857-2119443872bf@109.237.26.64:2083?security=reality&encryption=none&pbk=AoVVD-FGx5-IC2fwjqH3B_0M3T-muzmULO73sw4BLGw&headerType=none&fp=chrome&type=tcp&sni=discord.com&sid=3eddc513f64c2104#t.me/ConfigsHub
 vless://4e1b1ecc-4fc7-4830-a6e8-bdeed53ddc87@176.222.54.239:46421?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#t.me/ConfigsHub
+vmess://eyJhZGQiOiJtY2kubW9zaS5tb3NpcHJvLm1sIiwiYWlkIjoiMCIsImhvc3QiOiJEdXNzZWxkb3JmLmtvdGljay5zaXRlIiwiaWQiOiI1NTU3NTU3Ny0xRkY4LTQ3OUUtOTI0NC1COThFQTEyNTM4QkUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MjcwNVRlbGVncmFtIDogQHYycmF5bWFrZXJzIiwic2N5IjoiYXV0byIsInNuaSI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://32ae2f5b-40ac-428d-83a9-f304ae12e869@free.network-nim.site:8080?path=%2F&security=none&encryption=none&host=nimne-twork.cam&type=ws#%40v2rayNG_vpnorg
+vless://32ae2f5b-40ac-428d-83a9-f304ae12e869@free.network-nim.site:8080?path=%2F&security=none&encryption=none&host=nimne-twork.cam&type=ws#t.me/ConfigsHub
+vless://3ac0b16c-642f-44b4-83ce-3d8e965a3d1f@teel.feerxshop5.shop:11286?security=none&encryption=none&headerType=http&type=tcp#t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.183.140:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.46.120:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.253.255:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
@@ -526,6 +526,8 @@ trojan://178c3880-984a-11ee-82c5-1239d0255272@zula.ir:443?path=%2Fhowdy&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMklzRlhMd1NwU2pDRlNE@series-a2.samanehha.co:443#K%F0%9F%86%94%40musicestanband
 a.z.adi_403@proton.me
 a.z.a.di_403@proton.me
+vless://mahsanet-azadi-az-inja-migzare@mahsang-1.dgi000.store:51129?mode=gun&security=reality&encryption=none&pbk=tHUQkJ8gpxjTgeOkCrswR_pXx39S45SnTUv_FUP8Fis&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.speedtest.net&sid=7fe29733#magicvpn_shop+%D8%A7%DB%8C%D8%AF%DB%8C+%DA%86%D9%86%D9%84+%D9%85%D8%A7
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@855.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#magicvpn_shop+%D8%A7%DB%8C%D8%AF%DB%8C+%DA%86%D9%86%D9%84+%D9%85%D8%A7
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?path=%2F%3Fed&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#magicvpn_shop+%D8%A7%DB%8C%D8%AF%DB%8C+%DA%86%D9%86%D9%84+%D9%85%D8%A7
 vmess://eyJhZGQiOiJ1cGxvYWQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlzMy12bWVzcy5zc2htYXgueHl6IiwiaWQiOiIwODVmNjI4MS01YzRjLTRhMzQtOGI0NC1kNjViYzJlMmIwNjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Im1hZ2ljdnBuX3Nob3Ag2KfbjNiv24wg2obZhtmEINmF2KciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ1cGxvYWQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlzMy12bWVzcy5zc2htYXgueHl6IiwiaWQiOiIwODVmNjI4MS01YzRjLTRhMzQtOGI0NC1kNjViYzJlMmIwNjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Im1hZ2ljdnBuX3Nob3Ag2KfbjNiv24wg2obZhtmEINmF2KciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
