@@ -13,9 +13,6 @@ trojan://telegram-id-privatevpns@52.212.86.19:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@34.240.196.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.178.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.80.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S102)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@15.236.235.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?sni=lmn39.sbs&host=lmn39.sbs&type=ws&security=tls&path=%2Ffflsws&encryption=none#Hetzener+Germany
-vless://32ae2f5b-40ac-428d-83a9-f304ae12e869@free.network-nim.site:8080?path=%2F&security=none&encryption=none&host=nimne-twork.cam&type=ws#%40v2rayNG_vpnorg
 vless://SvnTeam@mtn.vpnprosec.com:2087?serviceName=&sni=Grm.SvnNvs.Online&mode=gun&type=grpc&security=tls&encryption=none#Hetzener+Germany
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?sni=lmn39.sbs&host=lmn39.sbs&type=ws&security=tls&path=%2Ffflsws&encryption=none#t.me/ConfigsHub
 vless://d290ff5c-d9a9-49a1-be0d-cd80bd798b9a@104.219.54.187:443?type=ws&path=%2F&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=m.zoom.us#USMYZOOM-DATA%20ZONE%20ZOOM
@@ -32,6 +29,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 trojan://telegram-id-directvpn@15.236.235.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.236.235.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me/ConfigsHub
 vless://2b0ea0c3-c4bb-4294-9779-21446df79f68@moftinet.eryhoihuuu.sbs:443?type=grpc&serviceName=%40Moftinet+%40Moftinet+%40Moftinet+%40Moftinet+%40Moftinet&security=reality&pbk=-IR1ZNiFdw6gytoO6S47tx_M-CBXhuLJfKnjfiR2XDE&fp=chrome&sni=account.zula.ir&sid=f8c04320&spx=%2F#@MOFTINET | FREE
+vless://4be62aed-70e3-4af4-c415-3fbbc51c00fb@104.18.202.209:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=fl.ZoV2ray.cfd#t.me/ConfigsHub
+vless://4be62aed-70e3-4af4-c415-3fbbc51c00fb@104.18.202.209:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=fl.ZoV2ray.cfd#%40v2rayip
+vmess://eyJhZGQiOiIyMy4xNjYuMjQuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWUyNWYzNmQtODUwMS00Zjk0LWQzZjYtMDdiYWFlMjdjYzEzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2VlMjVmMzZkIiwicG9ydCI6IjUxOTA0IiwicHMiOiJVU0EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.227.100:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.49.160.22:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.44.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
