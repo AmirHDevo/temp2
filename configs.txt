@@ -14,26 +14,25 @@ trojan://telegram-id-privatevpns@13.43.182.176:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.42.93.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.200.84.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.255.55.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-vless://SvnTeam@mtn.VPNPROSEC.com:2087/?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Grm.gelofenshop.online#t.me/ConfigsHub
-vmess://eyJhZGQiOiJ0dW5nc20xMi5nc212cDk4NDZ1c2lydHJjaTU2MTZzZjY4NC54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDA5MGU0ZTktZTcyMC00NzE5LWQ1MzQtMzMwY2JkOWVmNmM3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTY2MyIsInBzIjoi4p6vQGRhZW1pMTAwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpscGVsbVpYZ2ZoR0dNdTVpWHlmWg==@103.125.147.226:51348#%F0%9F%87%AE%F0%9F%87%B3%40vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM3NFN0gyZ2hmM2hJTWxZVA==@103.125.147.86:51348#%F0%9F%87%AE%F0%9F%87%B3%40vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#our+channel%E2%98%9E%40vpnAndroid2
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#our+channel%E2%98%9E%40vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#our+channel%E2%98%9E%40vpnAndroid2
-vmess://eyJhZGQiOiJtYWhhbmZyZWVuZXQuYW1udnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJfc2VydmVyM192aXBfbWFoYW52cG4iLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfmoDwn4ep8J+Hqk1haGFudnBuLXNlcnZlcjMtTUNJMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtYWhhbnRlYW0ubWFoYW5tcnoudG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpscGVsbVpYZ2ZoR0dNdTVpWHlmWg==@103.125.147.226:51348#%F0%9F%87%AE%F0%9F%87%B3%40vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM3NFN0gyZ2hmM2hJTWxZVA==@103.125.147.86:51348#%F0%9F%87%AE%F0%9F%87%B3%40vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#our+channel%E2%98%9E%40vpnAndroid2
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#our+channel%E2%98%9E%40vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#our+channel%E2%98%9E%40vpnAndroid2
-https://t.me/proxy?server=95.217.192.79&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=188.93.236.170&port=443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=178.63.70.219&port=17&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=142.132.248.148&port=100&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.109.98.224&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=65.109.105.94&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=95.217.194.210&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@145.239.1.100:8881#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiIxMTYuMjAyLjIyLjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiMWY3YjE2NjMtM2Y1Mi00MjQyLTkwNjctNWJkNzBlODViMWRjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTg1NjUiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://2cc12839-3202-48b0-a59f-de0ab6d68bdd@facelessvoid.uk:21880?security=reality&encryption=none&pbk=dLnCEYLlbn2oZDFoUzTmnykrgWBaeVFTbPD_xDByPmA&headerType=none&fp=chrome&type=tcp&sni=discord.com&sid=194748e6#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://a6197b33-2f0d-463e-87bc-9d1ad9d8e32f@88.151.194.190:8443?security=reality&encryption=none&pbk=zFEZYLjOxvSIs-cX73BFuMz3A19X30gXuwDtfJJRMxs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=6625f00f#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://d09ad744-453d-4ff0-8306-8d09b4ce21c8@blacksnake.uk:23738?security=reality&encryption=none&pbk=WJ386E21D82LOILjXIPVWIDcnPM4_htXVTrqBKWjy2A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=bab0161f#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://dcffdde1-7c4a-4361-8ca2-961251f3a023@blackmonkey.uk:35517?security=reality&encryption=none&pbk=uQj3GQEayrF-EubsrWd89A3g8DBPc1S6R9GLK-ykxDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=1c3b838d#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhmYWVkMS00MWNkLTQ0MmUtYmNmMi03MmY0NjQ0MjAwYjA=@185.74.222.246:47894#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%B3
+vless://3a8d7ccf-ce7a-43b7-8cee-706fc23d3e1e@159.65.213.223:41349?security=reality&encryption=none&pbk=KDIUhXKfEbePXIXxnuAXEbXsLcVSkXNsPjXhsvZRvVY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=520c5649c5#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@recitequran08.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@satyaquran18.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@themequran15.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+vless://cd20a82c-8cc8-48bb-8866-0a2c6338a390@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=26655234&sni=1671034988.behmusic.store#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@tajwidquran15.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
+vless://4514ed0a-f143-4efb-c95f-e639972750d8@104.25.254.88:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=b.mmd111.sbs#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
+vless://31ee875d-63cf-4d85-839e-2def5ca4f794@104.18.15.242:2053?security=tls&encryption=none&alpn=h2,http/1.1&host=031c08e8175b0def.greenbook.monster&fp=chrome&type=ws&sni=031c08e8175b0def.greenbook.monster#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.220.186:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.242.117:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.103.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
