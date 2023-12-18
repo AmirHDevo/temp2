@@ -14,18 +14,6 @@ trojan://telegram-id-privatevpns@13.43.182.176:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.42.93.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.200.84.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.255.55.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to3.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#@UnlimitedDev-Link3
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to4.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#@UnlimitedDev-Link4
-vless://e14968b7-b19e-4a82-a09f-70396bd33e67@3bia-to3.unlimiteddev.shop:443/?type=grpc&serviceName=@UnlimitedDev&security=reality&fp=random&pbk=uUqL2JnMgkaqV-gmVZIQeGYwHp2WlqOGjbDpqlPfdxQ&sni=ftp.debian.org&sid=26d9e375&spx=%2F#@UnlimitedDev-Reality
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to1.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to2.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to3.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to4.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://e14968b7-b19e-4a82-a09f-70396bd33e67@3bia-to3.unlimiteddev.shop:443/?type=grpc&serviceName=@UnlimitedDev&security=reality&fp=random&pbk=uUqL2JnMgkaqV-gmVZIQeGYwHp2WlqOGjbDpqlPfdxQ&sni=ftp.debian.org&sid=26d9e375&spx=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to1.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to2.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to3.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
-vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to4.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
 vless://e14968b7-b19e-4a82-a09f-70396bd33e67@3bia-to3.unlimiteddev.shop:443/?type=grpc&serviceName=@UnlimitedDev&security=reality&fp=random&pbk=uUqL2JnMgkaqV-gmVZIQeGYwHp2WlqOGjbDpqlPfdxQ&sni=ftp.debian.org&sid=26d9e375&spx=%2F#t.me/ConfigsHub
 vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to1.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
 vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to2.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#t.me/ConfigsHub
@@ -34,6 +22,18 @@ vless://6f63290b-c05d-48c5-b50b-21bf3cd59524@bia-to3.unlimiteddev.shop:80?encryp
 vless://e14968b7-b19e-4a82-a09f-70396bd33e67@3bia-to3.unlimiteddev.shop:443/?type=grpc&serviceName=@UnlimitedDev&security=reality&fp=random&pbk=uUqL2JnMgkaqV-gmVZIQeGYwHp2WlqOGjbDpqlPfdxQ&sni=ftp.debian.org&sid=26d9e375&spx=%2F#t.me/ConfigsHub
 vless://4a91977f-6985-4088-aa2f-605ee1e33d42@omggg.bedonemarz.online:443?path=%2F26391%2F%40bed0nemarz&security=tls&encryption=none&fp=chrome&type=ws#%40tizjo+%F0%9F%8C%847
 vmess://eyJhZGQiOiJtYWhhbmZyZWVuZXQuYW1udnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEsaDIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6Il9zZXJ2ZXIzX3ZpcF9tYWhhbnZwbiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+agPCfh6nwn4eqTWFoYW52cG4tTWFoYW4tTUNJMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtYWhhbnRlYW0ubWFoYW5tcnoudG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNDYuNTkuMTQ3LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MjQ0N2FiZi1kY2I5LTQwOGEtOWNhNi03OWUwYTc2OThkMDgiLCJuZXQiOiJ0Y3AiLCJwYWNrZXRfZW5jb2RpbmciOiIiLCJwYXRoIjoiIiwicG9ydCI6IjI5Nzc2IiwicHMiOiJvdXIgY2hhbm5lbOKYnkBkYWVtaTEwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#t.me/ConfigsHub
+https://t.me/proxy?server=128.140.66.227&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ=
+https://t.me/proxy?server=95.211.175.247&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=flyaback.kipsoon.fast-zoon.quest&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+https://t.me/proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.glow-glue.sbs.&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ=
+https://t.me/proxy?server=148.251.250.57&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=cloudflare.com.nokia.coM.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyoun.rm.again_to_fight.everyone.i_am.the_internet.irancell-ir-irancell-ir-irancell-ir-irancell-ir-irancell-ir.sbs&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=65.109.99.35&port=10&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
+https://t.me/proxy?server=49.12.218.146&port=8085&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.220.186:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.242.117:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.103.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
