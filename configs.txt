@@ -554,6 +554,8 @@ vless://e633d8ee-8ec6-4604-eb70-689d09a3d37a@104.25.254.88:8443?mode=gun&securit
 vless://47a3f576-42c6-45a0-e22b-617075b24005@173.245.58.250:443?security=tls&sni=cdn.eliv2ray.top&fp=chrome&type=grpc&serviceName=@ELiV2ray#Hetzner-@asrnovin_ir
 vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzMzIteGFjai1jZi5oZWxsby1ldmVyeWJvZHkub25saW5lIiwiaWQiOiJmOTg2MjI0ZC03NmYyLTQyMzktOTdhNC00OTMyNzUwZDFjMjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWhiZnZ3cyIsInBvcnQiOiI0NDMiLCJwcyI6Imp1c3QtdGVzdCIsInNjeSI6ImF1dG8iLCJzbmkiOiJzMzIteGFjai1jZi5oZWxsby1ldmVyeWJvZHkub25saW5lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://434106f1-c947-474e-85ad-26e6e1fe1825@109.107.190.41:26898?mode=gun&security=none&encryption=none&type=grpc&serviceName=@mrepairo#%40asr_proxy
+vless://a7a6af09-8b62-4621-b77a-64e6a70eb174@new.alonext.com:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=ALPA_GANG,@ALPA_GANG,@ALPA_GANG&sni=new.alonext.com#%40asrnovin_ir
+vless://dae5f16e-0bbe-4125-801f-f1fce5fcbe1d@new.alonext.com:8080?path=%2F&security=none&encryption=none&type=ws#%40asrnovin_ir
 vless://da0261ef-14e7-4add-913b-9eb21a42fb38@172.234.96.204:443?type=tcp&security=reality&fp=chrome&pbk=NyXSfIWyBy8mnxLQgVwhn7fQkukBpcSm5jmr9_OR3GM&sni=ftp.debian.org&sid=7bf73345&spx=%2F#v2raymb
 https://speedtest.net
 vless://9f752db3-f9df-4d3f-92bb-3abc8d2bb65d@31.22.116.216:2053?type=grpc&serviceName=%40myconfingfree&security=tls&fp=chrome&alpn=&sni=bjfhguigyuktyttihjl.mic-mokhaderat-shatel-irancel-digikala.shop#%40myconfingfree-2
