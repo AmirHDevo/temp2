@@ -14,13 +14,6 @@ trojan://telegram-id-privatevpns@18.169.110.42:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.42.212.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.255.1.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.215.8.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-vless://a8768dac-6d8f-40c7-e310-4a853039e7f8@ir.iu1.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=htamiz3.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
-vless://f5a84d2d-6ea2-4d80-986e-563c6e6af7f9@ir.iu2.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=htamiz3.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
-vless://13198e79-6b05-4abf-c2d8-3860268e0180@ir.ifr1.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=htamiz3.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
-vmess://ewogICAgImFkZCI6ICIxMDQuMjEuNTAuMTc3IiwKICAgICJhaWQiOiAxLAogICAgImhvc3QiOiAiYWx2dmluLmNsaWNrIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogdC5tZS9Db25maWdzSHViIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiYWx2dmluLmNsaWNrIgp9
-vless://ef916f8b-8b87-4456-d78e-71b2dd620476@ir.ic1.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=htamiz5.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
-vless://21d6c429-9a97-47f7-84bf-acf83e8a69f2@ir.ic2.shopiiiiing.cfd:8080?path=%2F&security=none&encryption=none&host=htamiz7.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
-vless://34190107-f315-4ddf-d6d4-7f9f87af715b@ir.ifi1.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=ifi1.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
 vless://1265968a-26c0-42e5-bf1d-8857a4f5cddb@ir.ig3.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=ig3.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
 vless://e77485a6-19e3-4300-dfaf-74fa597a545a@ir.ig4.shopiiiiing.cfd:80?path=%2F&security=none&encryption=none&host=ig3.kaghazacharrangi.sbs&type=ws#t.me/ConfigsHub
 vless://b0107817-029c-432c-ad4d-bd1e9e1c3471@65.108.58.248:443?encryption=none&fp=firefox&mode=gun&pbk=RL6RJY-vbjYIUpDulvSJ8LHI9zCsJ0ICWWY5I-coWwE&security=reality&serviceName=%40VPNwedbaz--%40vpnwedbaz&sid=cac59972&sni=greenpepper.ir&type=grpc#28✊t.me/vPlusVPN_FREE
@@ -34,6 +27,12 @@ vless://db33e43b-e394-49f8-e336-bcce6e2b4ad1@Discord.com:443?path=%2FTelegramHos
 vless://2b30aad7-fc12-4530-87bb-3f55936239fb@104.16.2.136:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#%40SHconfig
 https://t.me/proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=mahya-its.com.datapr.ir.alumabag.ir.ani__-job.ir.mtsaco_mpany.com.azarshop.com.s_ebty.com.pumpiran.com.tryall.ir.mashhad-laptop.ir.mna_jafi.com.oinet.ir.khabiran.net.zarpood.com.marjanhairgall_ery.com.tvs_am.ir.insuranceofpasargad.ir.delpazircompany.sbs&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40SHconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40SHconfig
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI2ZjdmODJkOS1kZDJjLTRkOWYtYzgxNy03MDY2OWZkZjcxN2YiLCJuZXQiOiJncnBjIiwicGF0aCI6IkBSRU5FVFZQTiBAUkVORVRWUE4gfCBAUkVORVRWUE4gQFJFTkVUVlBOIHwgQFJFTkVUVlBOIEBSRU5FVFZQTiB8IEBSRU5FVFZQTiBAUkVORVRWUE4gfCBAUkVORVRWUE4iLCJwb3J0IjoiMjA4NyIsInBzIjoiQEhFY29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6ImdlLnJlbmV0c2VydmljZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibXVsdGkiLCJ2IjoiMiJ9
+vless://356c890f-31a8-47d8-984f-f79727412994@104.24.176.7:80?path=%2FTalaNetwork&security=none&encryption=none&host=it.sponsored-by.talanetwork.me&type=ws#%40SHconfig
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40SHconfig
+vless://a89c9199-0b1d-4470-f3ea-94725589deb8@upload.ir:80?path=%2F&security=none&encryption=none&host=GzfMVr.sPAMdEtEcTOr.WORLD&type=ws#%40HEconfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.90.70:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.234.170:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.142.159:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
